@@ -62,15 +62,6 @@ L'app non sincronizza le risposte tra dispositivi. Per un'aula si consiglia la p
 
 Le risposte **non vengono salvate automaticamente**: un ricaricamento della pagina le azzera. Se vuoi conservarne un riepilogo, scaricalo prima di chiudere o aggiornare la pagina.
 
-## Coerenza con il corso
-
-Il laboratorio riprende la prima parte della Giornata 3: riconoscibilità delle persone, distinzione tra dato anonimo e informazione riservata, bias, prompt injection, affidabilità degli output e gestione degli incidenti. Due passaggi sono particolarmente importanti:
-
-- **La sicurezza comincia prima di premere Invio.** Bisogna verificare dati, documento, strumento e finalità.
-- **Controllare non significa soltanto rileggere.** Fonti, dati, contesto e conseguenze vanno verificati in modo sostanziale.
-
-La simulazione non approfondisce la checklist e la registrazione documentale in modo sistematico, perché questi temi sono previsti nella **Giornata 4**. È un ponte, non una ripetizione.
-
 ## Fonti per i principi richiamati
 
 - [GDPR — Regolamento (UE) 2016/679, articoli 4, 5, 32 e 33](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679)
