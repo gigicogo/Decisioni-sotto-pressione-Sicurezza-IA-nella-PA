@@ -1,8 +1,6 @@
 # Decisioni sotto pressione — Sicurezza IA nella PA
 
-Simulatore didattico autonomo per la **Giornata 3** del corso sull'intelligenza artificiale nella Pubblica Amministrazione: **sicurezza, privacy e gestione del rischio nell'uso quotidiano**.
-
-È una rielaborazione del simulatore iniziale «Sicurezza IA & Privacy nella PA», che presentava 4 casi con un timer di 40 secondi. La nuova versione amplia gli scenari e sostituisce le risposte istantanee con **decisioni in due tempi**.
+Simulatore didattico autonomo per il corso sull'intelligenza artificiale nella Pubblica Amministrazione: **sicurezza, privacy e gestione del rischio nell'uso quotidiano**.
 
 ## Avvio rapido
 
@@ -12,17 +10,6 @@ Simulatore didattico autonomo per la **Giornata 3** del corso sull'intelligenza 
 
 Non occorre installare software né configurare API o account. È un'applicazione statica in un unico file HTML, con CSS e JavaScript incorporati. Non usa librerie o CDN esterni.
 
-## Pubblicazione con GitHub Pages
-
-1. Crea un repository GitHub, ad esempio `sicurezza-ia-pa` (oppure utilizza un repository già esistente dedicato all'esercitazione).
-2. Carica nella **radice** del repository `index.html` e `Readme.MD`.
-3. Apri **Settings → Pages**.
-4. In **Build and deployment** imposta **Deploy from a branch**, seleziona `main` e la cartella `/(root)`, quindi salva.
-5. Una volta pubblicato, l'indirizzo seguirà la forma `https://NOME-UTENTE.github.io/NOME-REPOSITORY/`.
-
-Se GitHub Pages non è disponibile per il repository/account, verifica le impostazioni e i permessi del repository. Il sito non necessita di build.
-
-> Puoi rinominare il repository come vuoi; mantieni invece `index.html` tutto minuscolo perché GitHub Pages lo riconosca come pagina iniziale.
 
 ## Struttura didattica
 
@@ -36,8 +23,6 @@ Se GitHub Pages non è disponibile per il repository/account, verifica le impost
 | Regole del gioco e organizzazione | 4–5 minuti | Spiegare le quattro opzioni A/B/C/D |
 | Otto casi in due tempi | 32–40 minuti | Scelta iniziale → dettaglio nuovo → nuova scelta → debrief |
 | Restituzione finale | 5–10 minuti | Confrontare motivazioni e variazioni di decisione |
-
-**Suggerimento per le tre ore del corso:** se il tempo disponibile è limitato, utilizza i casi 1, 3, 4, 6 e 8; per un laboratorio esteso usa tutti e otto. Puoi passare da un caso all'altro tramite la navigazione laterale.
 
 ### I casi
 
